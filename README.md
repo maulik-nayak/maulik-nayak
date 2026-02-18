@@ -53,8 +53,6 @@ I explore the realm where shlokas meet source code, blending ancient authenticit
 
 ### 🚀 GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=maulik-nayak)
-[![trophy](https://github-profile-trophy.vercel.app/?username=maulik-nayak)](https://github.com/maulik-nayak)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=maulik-nayak)](https://git.io/streak-stats)
 
 ---
