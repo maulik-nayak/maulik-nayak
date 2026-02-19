@@ -46,7 +46,7 @@ I explore the realm where shlokas meet source code, blending ancient authenticit
 
 ### 📫 Connect with Me
 
-- 📩 Email: [maulik@malum.ai](mailto:maulik@malum.ai)
+- 📩 Email: [mauliknayak135@gmail.com](mailto:mauliknayak135@gmail.com)
 - 📷 Instagram: [vd.maulik.nayak](https://www.instagram.com/vd.maulik.nayak)
 
 ---
